@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FkMHvNVUfzLcMnJCJJdpTNQKvTcnQy/5G7V8VCf3iT1nR/BsrfJONlkwXib+fOKezfrF7hwVO0BZCVkAssQYUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\proah\\OneDrive\\Desktop\\temp\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\proah\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}
