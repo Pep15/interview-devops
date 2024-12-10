@@ -22,6 +22,6 @@ jobs:
             uses: docker/build-push-action@v6
             with:
               push: true
-              tags: pepsi/webci:latest
+              tags: pepsi16/webci:latest
 
 
