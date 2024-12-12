@@ -1,4 +1,4 @@
-# Default values for myapp.
+# Default values for webapp.
 # This is a YAML-formatted file.
 # Declare variables to be passed into your templates.
 
@@ -14,7 +14,7 @@ image:
   tag: "latest"
 env:
   name: IsProduction
-  value: "true"
+  value: "false"
 
 # This is for the secretes for pulling an image from a private repository more information can be found here: https://kubernetes.io/docs/tasks/configure-pod-container/pull-image-private-registry/
 imagePullSecrets: []
